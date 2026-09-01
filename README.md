@@ -102,7 +102,7 @@ plt.show()
 
 <img width="750" height="582" alt="ex4 ml graph" src="https://github.com/user-attachments/assets/7a11f2bb-0b2c-417f-a278-bb2da2ee8034" />
 
-<img width="1162" height="612" alt="ex4 ml" src="https://github.com/user-attachments/assets/d16d1735-a17a-4aad-b5d2-7db73eaec7e3" />
+<img width="892" height="500" alt="image" src="https://github.com/user-attachments/assets/1bc870f5-e1b1-4886-835b-05bb88ec3e48" />
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
